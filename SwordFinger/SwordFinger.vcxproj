@@ -147,6 +147,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="SoerdFingre09.cpp" />
+    <ClCompile Include="SoerdFingre10-1.cpp" />
+    <ClCompile Include="SoerdFingre10-II.cpp" />
     <ClCompile Include="SwordFinger.cpp" />
     <ClCompile Include="SwordFinger03.cpp" />
     <ClCompile Include="SwordFinger04.cpp" />

@@ -33,6 +33,15 @@
     <ClCompile Include="SwordFinger07.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SoerdFingre09.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SoerdFingre10-1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SoerdFingre10-II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="md.txt" />
