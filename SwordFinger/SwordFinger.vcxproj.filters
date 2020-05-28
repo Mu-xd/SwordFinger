@@ -42,6 +42,18 @@
     <ClCompile Include="SoerdFingre10-II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SoerdFingre11.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SoerdFingre15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SoerdFinger17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SoerdFinger18.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="md.txt" />
